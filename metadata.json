@@ -1,0 +1,6 @@
+{
+  "name": "LinkLoad — Universal Social Media Video Downloader",
+  "description": "Fast, privacy-focused social media video downloader and inspector with platform validation, format selection, and transparent watermark disclosure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
